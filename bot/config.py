@@ -2,7 +2,7 @@ class config:
     BOT_TOKEN = "1863933100:AAFj4LAhBOqxmxR2xFUmP0RoH24SjqsA_Ug"
     APP_ID = "5710698"
     API_HASH = "8fc7310b03ef1f3a611b22baa2c84690"
-    DATABASE_URL = ""
+    DATABASE_URL = "postgres://dpfitnxkzyymcc:4d08de0172003472a6c6cd75612051f62571905405f4c02d92885b1f86517223@ec2-35-171-250-21.compute-1.amazonaws.com:5432/d94qliofaci1f8"
     SUDO_USERS = "1113520934" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://t.me/yumekojabamisupport"
     DOWNLOAD_DIRECTORY = "./downloads/"
