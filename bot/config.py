@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
+    BOT_TOKEN = "1863933100:AAFj4LAhBOqxmxR2xFUmP0RoH24SjqsA_Ug"
+    APP_ID = "5710698"
+    API_HASH = "8fc7310b03ef1f3a611b22baa2c84690"
     DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    SUDO_USERS = "1113520934" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/yumekojabamisupport"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = ""
     G_DRIVE_CLIENT_SECRET = ""
